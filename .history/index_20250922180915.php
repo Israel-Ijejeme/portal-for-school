@@ -19,7 +19,7 @@ if (SessionManager::isLoggedIn()) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aktiv University - Login</title>
+    <title>Aktiv Unniversity - Login</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome for icons -->
@@ -86,7 +86,7 @@ if (SessionManager::isLoggedIn()) {
         
         <div class="login-container">
             <div class="logo">
-                <i class="fas fa-school"></i> Aktiv University Online Portal
+                <i class="fas fa-school"></i> School Dashboard
             </div>
             <h4 class="text-center mb-4">Sign in as</h4>
             

@@ -86,7 +86,7 @@ if (SessionManager::isLoggedIn()) {
         
         <div class="login-container">
             <div class="logo">
-                <i class="fas fa-school"></i> Aktiv University Online Portal
+                <i class="fas fa-school"></i> School Dashboard
             </div>
             <h4 class="text-center mb-4">Sign in as</h4>
             
